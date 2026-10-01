@@ -1,0 +1,11 @@
+{
+  "geode": "v3.0.0",
+  "gd": {
+    "android": "2.208"
+  },
+  "id": "author.level_bot_mobile",
+  "name": "Stereo & Back Bot",
+  "version": "1.0.0",
+  "developer": "MobileCoder",
+  "description": "Auto bot for Stereo Madness and Back on Track with skull pause button."
+}
